@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
-import ToDoItem from "./toDoItem";
+import ToDoItem from "./ToDoItem";
 import AddToDo from "./AddToDo";
 import Progress from "./Progress";
 const ToDoList = () => {

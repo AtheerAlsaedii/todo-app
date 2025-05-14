@@ -6,7 +6,7 @@
 
 ## 🔗 Live Preview
 
-> [Add your deployed project link here]
+> deploy
 
 ---
 
