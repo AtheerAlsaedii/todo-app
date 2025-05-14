@@ -4,7 +4,8 @@
 
 ## 🔗 Live Preview
 
-> [tickthetask.netlify.app]
+Check out the live version of the app here:  
+👉 [https://tickthetask.netlify.app](https://tickthetask.netlify.app)
 
 ## 🛠️ Technologies Used
 
