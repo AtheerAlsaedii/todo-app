@@ -1,12 +1,37 @@
-# React + Vite
+# ✅ ToDoList - Built with React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ToDoList** is a simple and efficient daily task management app built using **React** and **Tailwind CSS**. It allows users to add, edit, delete, and mark tasks as complete or incomplete. The app features a progress bar that displays the completion rate and stores tasks locally in the browser using **Local Storage**, so nothing is lost upon refresh.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Preview
 
-## Expanding the ESLint configuration
+> [Add your deployed project link here]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- **React** ⚛️ for building an interactive and dynamic UI
+- **Tailwind CSS** 🎨 for fast styling and responsive design
+- **Local Storage** 💾 to persist tasks in the browser
+- **Vite** ⚡ for fast development and high performance
+
+---
+
+## 🎯 Features
+
+- ✅ Add new tasks easily
+- ✅ Edit tasks directly within the list
+- ✅ Delete unwanted tasks
+- ✅ Mark tasks as completed or uncompleted
+- ✅ View a visual progress bar based on task completion
+- ✅ Fully **responsive** layout across all devices
+- ✅ Tasks saved automatically using **Local Storage**
+
+---
+
+## 🤝 Contributions
+
+Feedback and contributions are welcome!  
+Feel free to open an **Issue** or submit a **Pull Request** on the GitHub repository.
